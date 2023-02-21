@@ -5,7 +5,6 @@
 - 🥇我的个人网站 / My personal website：[huawuque404.cn](http://huawuque404.cn)
 - 🥇我的CSDN博客 / My blog：[www.blog.csdn.net/huawuque404](https://blog.csdn.net/huawuque404)
 
-<!---
-huawuque404/huawuque404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huawuque404&layout=compact&title_color=0044ff&bg_color=141328&text_color=e8e8f2)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huawuque404&count_private=true&show_icons=true&title_color=0044ff&bg_color=141328&text_color=e8e8f2)](https://github.com/anuraghazra/github-readme-stats)
