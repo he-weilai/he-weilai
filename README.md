@@ -1,6 +1,6 @@
 热爱开源，拥抱开源，投身于开源，愿为开源世界作出一点贡献✨
 
-👨‍💻我的个人网站 / My personal website：[**huawuque404.cn**](http://huawuque404.cn)
+👨‍💻我的个人网站 / My personal website：[**huawuque404.com**](http://huawuque404.com)
 
 🥇我的CSDN博客 / My blog：[**www.blog.csdn.net/huawuque404**](https://blog.csdn.net/huawuque404)
 
