@@ -10,9 +10,9 @@
 
 💬我的微信 / Wechat：heweilai-
 
-<!--[![huawuque404's GitHub stats](https://github-readme-stats.vercel.app/api?username=huawuque404&count_private=true&show_icons=true&title_color=3d5ef5&bg_color=141328&text_color=e8e8f2)](https://huawuque404.com)
+<!--[![he-weilai's GitHub stats](https://github-readme-stats.vercel.app/api?username=he-weilai&count_private=true&show_icons=true&title_color=3d5ef5&bg_color=141328&text_color=e8e8f2)](https://blog.csdn.net/coder_heweilai)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huawuque404&count_private=true&layout=compact&show_icons=true&title_color=3d5ef5&bg_color=141328&text_color=e8e8f2)](https://huawuque404.com)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=he-weilai&count_private=true&layout=compact&show_icons=true&title_color=3d5ef5&bg_color=141328&text_color=e8e8f2)](https://blog.csdn.net/coder_heweilai)-->
 
 ## ✨今年汇总
 
