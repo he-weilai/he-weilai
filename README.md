@@ -8,7 +8,7 @@
 
 🥇我的博客 / My blog：[**www.blog.csdn.net/coder_heweilai**](https://blog.csdn.net/coder_heweilai)
 
-💬我的微信 / Wechat：heweilai-
+💬我的微信 / Wechat：heweilai-（备注github）
 
 <!--[![he-weilai's GitHub stats](https://github-readme-stats.vercel.app/api?username=he-weilai&count_private=true&show_icons=true&title_color=3d5ef5&bg_color=141328&text_color=e8e8f2)](https://blog.csdn.net/coder_heweilai)
 
