@@ -4,9 +4,9 @@
 
 🔍CSDN博客：[www.blog.csdn.net/coder_heweilai](https://blog.csdn.net/coder_heweilai)
 
-✍豆瓣文章：[https://www.douban.com/people/279136043/](https://www.douban.com/people/279136043/)
+✍豆瓣文章：[www.douban.com/people/279136043/](https://www.douban.com/people/279136043/)
 
-📢微博：[https://weibo.com/u/7910022007](https://weibo.com/u/7910022007)
+📢微博：[weibo.com/u/7910022007](https://weibo.com/u/7910022007)
 
 🌌抖音、小红书、知乎账号名均为“[程序员何未来](https://www.google.com/search?q=%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BD%95%E6%9C%AA%E6%9D%A5&ie=UTF-8)”
 
