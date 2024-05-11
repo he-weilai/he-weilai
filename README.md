@@ -1,6 +1,6 @@
 ## 🌏关于我
 
-你好，我是何未来，一个喜欢写文章的准程序员🧑‍💻，计算机本科在读，多个计算机类大赛奖项获得者，CSDN技术博主。
+你好，我是[何未来](https://github.com/he-weilai/he-weilai/blob/main/The-Chinese-pronunciation-of-my-name.mp3)，一个喜欢写文章的准程序员🧑‍💻，计算机本科在读，多个计算机类大赛奖项获得者，CSDN技术博主。
 
 🔍CSDN博客：[www.blog.csdn.net/coder_heweilai](https://blog.csdn.net/coder_heweilai)
 
