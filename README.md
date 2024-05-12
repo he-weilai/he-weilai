@@ -4,7 +4,9 @@
 
 🔍CSDN博客：[www.blog.csdn.net/coder_heweilai](https://blog.csdn.net/coder_heweilai)
 
-✍豆瓣文章：[www.douban.com/people/279136043/](https://www.douban.com/people/279136043/)
+✍豆瓣PC端主页：[www.douban.com/people/279136043/](https://www.douban.com/people/279136043/)（需要登录你的豆瓣账号才能查看）
+
+✍豆瓣移动端主页：[m.douban.com/people/279136043/](https://m.douban.com/people/279136043/)（无需登录你的豆瓣账号可查看）
 
 📢微博：[weibo.com/u/7910022007](https://weibo.com/u/7910022007)
 
@@ -12,7 +14,7 @@
 
 💬微信：heweilai-（备注github）
 
-如果你对我有任何问题，随时欢迎与我联系哦😃，期待共同交流和成长✌️
+如果你对我有任何问题，欢迎随时与我联系哦😃，期待共同交流和成长✌️
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,python,html,css,git,linux,windows,idea,eclipse,vscode,md&theme=light)](https://skillicons.dev)
 
