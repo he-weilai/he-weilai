@@ -4,9 +4,9 @@
 
 🔍CSDN博客：[www.blog.csdn.net/coder_heweilai](https://blog.csdn.net/coder_heweilai)
 
-✍豆瓣PC端主页：[www.douban.com/people/279136043/](https://www.douban.com/people/279136043/)（需要登录你的豆瓣账号才能查看）
+✍豆瓣PC端主页：[www.douban.com/people/279136043/](https://www.douban.com/people/279136043/)（需登录你的豆瓣账号才能查看）
 
-✍豆瓣移动端主页：[m.douban.com/people/279136043/](https://m.douban.com/people/279136043/)（无需登录你的豆瓣账号可查看）
+✍豆瓣移动端主页：[m.douban.com/people/279136043/](https://m.douban.com/people/279136043/)
 
 📢微博：[weibo.com/u/7910022007](https://weibo.com/u/7910022007)
 
