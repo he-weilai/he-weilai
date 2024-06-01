@@ -2,6 +2,8 @@
 
 你好，我是何未来，一个热爱编程和写作的计算机本科生🧑‍💻，多个计算机类大赛奖项获得者，CSDN技术博主。
 
+我会在以下社交媒体分享我的文章和日常
+
 🔍CSDN博客：[www.blog.csdn.net/coder_heweilai](https://blog.csdn.net/coder_heweilai)
 
 ✍豆瓣PC端主页：[www.douban.com/people/279136043/](https://www.douban.com/people/279136043/)（需登录你的豆瓣账号才能查看）
@@ -10,11 +12,11 @@
 
 📢微博：[weibo.com/u/7910022007](https://weibo.com/u/7910022007)
 
-🌌抖音、小红书账号名均为“[程序员何未来](https://www.google.com/search?q=%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BD%95%E6%9C%AA%E6%9D%A5&ie=UTF-8)”
-
-💬微信：heweilai-（备注github）
+🌌抖音、小红书账号名均为“_程序员何未来_”
 
 如果你对我有任何问题，欢迎随时与我联系哦😃，期待共同交流和成长✌️
+
+💬微信：heweilai-（备注github）
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,python,html,css,git,linux,windows,idea,eclipse,vscode,md&theme=light)](https://skillicons.dev)
 
