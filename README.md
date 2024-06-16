@@ -3,11 +3,11 @@
 	<a href="http://heweilai.com/" target="_blank"><img src="https://raw.githubusercontent.com/he-weilai/he-weilai/main/Signature-of-heweilai-Chinese-name.jpg" height="100px" style="margin-bottom:-1px"></a>
 </h2>
 
-Hi, I am **heweilai** (**何未来**), a computer undergraduate student who is currently focused on learning Java backend development and is also very interested in frontend development.
+Hi, I am <strong>heweilai (何未来)</strong>, a computer undergraduate student who is currently focused on learning Java backend development and is also very interested in frontend development.
 
 ## 🔗More
 
-- **Homepage**: [heweilai.com](http://heweilai.com)
+- <strong>Homepage</strong>: [heweilai.com](http://heweilai.com)
 - CSDN: [blog.csdn.net/coder_heweilai](https://blog.csdn.net/coder_heweilai)
 - Douban(豆瓣): [www.douban.com/people/279136043/](https://www.douban.com/people/279136043/)
 - MicroBlog(微博): [weibo.com/u/7910022007](https://weibo.com/u/7910022007)
@@ -15,7 +15,7 @@ Hi, I am **heweilai** (**何未来**), a computer undergraduate student who is c
 - WeChat(微信): heweilai-
 - Email: [heweilai@126.com](mailto:heweilai@126.com)
 
-If you have any questions about me, please feel free to contact me anytime 😃， Looking forward to mutual communication and growth ✌️
+If you have any questions about me, please feel free to contact me anytime 😃,Looking forward to mutual communication and growth ✌️
 
 ## 📈Data
 
