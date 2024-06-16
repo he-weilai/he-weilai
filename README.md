@@ -17,15 +17,9 @@ Hi, I am **heweilai** (**何未来**), a computer undergraduate student who is c
 
 If you have any questions about me, please feel free to contact me anytime 😃， Looking forward to mutual communication and growth ✌️
 
-
-
-<!--[![he-weilai's GitHub stats](https://github-readme-stats.vercel.app/api?username=he-weilai&count_private=true&show_icons=true&title_color=3d5ef5&bg_color=141328&text_color=e8e8f2)](https://blog.csdn.net/coder_heweilai)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=he-weilai&count_private=true&layout=compact&show_icons=true&title_color=3d5ef5&bg_color=141328&text_color=e8e8f2)](https://blog.csdn.net/coder_heweilai)-->
-
 ## 📈Data
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=he-weilai&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><!--<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=he-weilai&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />-->
+![heweilai's GitHub stats](https://github-readme-stats.vercel.app/api?username=he-weilai&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&layout=compact)
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,python,html,css,git,linux,windows,idea,eclipse,vscode,md&theme=light)](https://skillicons.dev)
 
