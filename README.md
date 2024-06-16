@@ -1,6 +1,6 @@
 <h2 align="center">
 	Hi, I'm <a href="http://heweilai.com/" target="_blank">heweilai (何未来)</a> 👋<br>
-	<a href="http://heweilai.com/" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/109327586/340127264-79acc5ed-138b-411d-89fb-72dddc127170.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240616%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240616T184222Z&X-Amz-Expires=300&X-Amz-Signature=7b9677b7cd24a65cd45e8a96c94ee7a1ed487cd02277825c86195ab788265e66&X-Amz-SignedHeaders=host&actor_id=109327586&key_id=0&repo_id=555744325" height="100px" style="margin-bottom:-1px"></a>
+	<a href="http://heweilai.com/" target="_blank"><img src="https://raw.githubusercontent.com/he-weilai/he-weilai/main/Signature-of-heweilai-Chinese-name.jpg" height="100px" style="margin-bottom:-1px"></a>
 </h2>
 
 Hi, I am **heweilai** (**何未来**), a computer undergraduate student who is currently focused on learning Java backend development and is also very interested in frontend development.
