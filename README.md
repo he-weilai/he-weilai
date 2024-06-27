@@ -3,7 +3,7 @@
 	<a href="http://heweilai.com/" target="_blank"><img src="https://raw.githubusercontent.com/he-weilai/he-weilai/main/Signature-of-heweilai-Chinese-name.jpg" height="100px" style="margin-bottom:-1px"></a>
 </h2>
 
-Hi, I am <strong>heweilai (何未来)</strong>, a computer undergraduate student who is currently focused on learning Java backend development and is also very interested in frontend development.
+Hi, I am <strong>heweilai (何未来)</strong>, a computer undergraduate student who is currently focused on learning web <strong>front-end</strong> development.
 
 ## 🔗More
 
