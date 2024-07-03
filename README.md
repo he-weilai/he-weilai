@@ -8,7 +8,7 @@ Hi, I am <strong>heweilai (何未来)</strong>, a CS undergraduate student who l
 ## 🔗More
 
 - <strong>Homepage</strong>: [heweilai.com](http://heweilai.com)
-- CSDN: [blog.csdn.net/coder_heweilai](https://blog.csdn.net/coder_heweilai)
+- CSDN: [blog.csdn.net/coder_heweilai](https://so.csdn.net/so/search?q=%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BD%95%E6%9C%AA%E6%9D%A5&t=userinfo&u=&urw=)
 - Douban(豆瓣): [www.douban.com/people/279136043/](https://www.douban.com/people/279136043/)
 - MicroBlog(微博): [weibo.com/u/7910022007](https://weibo.com/u/7910022007)
 - The user names of Chinese Tiktok(抖音) and Xiaohongshu(小红书) are _"程序员何未来"_
