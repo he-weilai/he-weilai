@@ -21,6 +21,6 @@ If you have any questions about me, please feel free to contact me anytime 😃,
 
 ![heweilai's GitHub stats](https://github-readme-stats.vercel.app/api?username=he-weilai&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&layout=compact)
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,python,html,css,git,linux,windows,idea,eclipse,vscode,md&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,python,html,css,js,git,linux,windows,idea,eclipse,vscode,md&theme=light)](https://skillicons.dev)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhe-weilai&count_bg=%23CB2AF1&title_bg=%23323FE1&icon=&icon_color=%23E7E7E7&title=GitHub+Viewers&edge_flat=false)](https://hits.seeyoufarm.com)
