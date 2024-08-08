@@ -12,7 +12,6 @@ Hi, I am <strong>heweilai (何未来)</strong>, a CS undergraduate student who l
 - Douban(豆瓣): [www.douban.com/people/279136043/](https://www.douban.com/people/279136043/)
 - MicroBlog(微博): [weibo.com/u/7910022007](https://weibo.com/u/7910022007)
 - The user names of Chinese Tiktok(抖音) and Xiaohongshu(小红书) are _"程序员何未来"_
-- WeChat(微信): heweilai-
 - Email: [heweilai@126.com](mailto:heweilai@126.com)
 
 If you have any questions about me, please feel free to contact me anytime 😃,Looking forward to mutual communication and growth ✌️
